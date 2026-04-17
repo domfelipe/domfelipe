@@ -45,6 +45,10 @@ jobs:
           plugin_achievements_mode: shared
           plugin_achievements_threshold: '0,1,7,14,31,93,365,730,1095'
 
+          plugin_isocalendar: yes
+          plugin_isocalendar_limit: 52
+          plugin_isocalendar_sections: commits,issues,prs,reviews,stars,forks,clones,views
+
           plugin_posts: no
           plugin_rss: no
 
