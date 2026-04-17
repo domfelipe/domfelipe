@@ -18,8 +18,6 @@ jobs:
           committer_token: ${{ secrets.METRICS_TOKEN }}
           
           plugin_isocalendar: yes
-          plugin_isocalendar_limit: 52
-          plugin_isocalendar_sections: commits,issues,prs,reviews,stars,forks,clones,views
 
           plugin_languages: yes
           plugin_languages_limit: 5
@@ -31,5 +29,4 @@ jobs:
           plugin_rss: no
 
           template: classic
-
           plugins_errors_fatal: no
