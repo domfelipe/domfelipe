@@ -4,9 +4,9 @@ on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
-  push:
-    branches:
-      - main
+
+permissions:
+  contents: write
 
 jobs:
   metrics:
@@ -16,65 +16,28 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          plugin_base: yes
-          plugin_base_separator: " "
-
-          plugin_activity: yes
-          plugin_activity_limit: 7
-          plugin_activity_load: 300
-          plugin_activity_visibility: public
-          plugin_activity_sections: contributions,commits
-
-          plugin_languages: yes
-          plugin_languages_colors: '#4584b6,#ffdf5d,#616163,#4e8e4e,#356862,#e38844'
-          plugin_languages_limit: 5
-          plugin_languages_use_language: yes
-          plugin_languages_transition: no
-
-          plugin_streak: yes
-          plugin_streak_days: 60
-          plugin_streak_lines: 3
-          plugin_streak_total: yes
-
-          plugin_views: yes
-          plugin_views_days: 14
-          plugin_views_color: 'F75132'
-          plugin_views_style: 'flat'
-
-          plugin_achievements: yes
-          plugin_achievements_mode: shared
-          plugin_achievements_threshold: '0,1,7,14,31,93,365,730,1095'
-
           plugin_isocalendar: yes
           plugin_isocalendar_limit: 52
           plugin_isocalendar_sections: commits,issues,prs,reviews,stars,forks,clones,views
 
-          plugin_posts: no
-          plugin_rss: no
+          plugin_languages: yes
+          plugin_languages_limit: 5
+          plugin_languages_colors: '#4584b6,#ffdf5d,#616163,#4e8e4e,#356862,#e38844'
 
-          output_format: markdown
+          plugin_achievements: no
+          plugin_activity: no
+
           use_template: yes
-          output_file: README.md
+          template: classic
 
           base_color: '1a1b26'
           base_theme: high-contrast
 
           text_color: 'FAFAFA'
-          text_brightness: '0'
-
           label_color: '66D9EF'
-          label_brightness: '0'
-
           badge_color: 'A6E22E'
-          badge_brightness: '0'
-
           icon_color: 'E6DB74'
-          icon_brightness: '0'
 
           animations: yes
-          animations_steps: 80
-          animations_speed: 1.5
 
-          base: ''
-          plugin_base_path: ''
-          plugin_achievements_path: ''
+          output_action: commit
