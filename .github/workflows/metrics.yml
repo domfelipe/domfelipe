@@ -15,7 +15,8 @@ jobs:
       - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          
           plugin_isocalendar: yes
           plugin_isocalendar_limit: 52
           plugin_isocalendar_sections: commits,issues,prs,reviews,stars,forks,clones,views
@@ -26,18 +27,9 @@ jobs:
 
           plugin_achievements: no
           plugin_activity: no
+          plugin_posts: no
+          plugin_rss: no
 
-          use_template: yes
           template: classic
 
-          base_color: '1a1b26'
-          base_theme: high-contrast
-
-          text_color: 'FAFAFA'
-          label_color: '66D9EF'
-          badge_color: 'A6E22E'
-          icon_color: 'E6DB74'
-
-          animations: yes
-
-          output_action: commit
+          plugins_errors_fatal: no
