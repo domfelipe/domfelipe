@@ -1,3 +1,4 @@
+<div align="center">
 ```
 ██████╗  ██████╗ ████████╗
 ██╔══██╗██╔═══██╗╚══██╔══╝
@@ -6,8 +7,6 @@
 ██████╔╝╚██████╔╝   ██║   
 ╚═════╝  ╚═════╝    ╚═╝   
 ```
-
-<div align="center">
 
 **👨‍💻 FELIPE DOMINGUES** — Dad · AI Enthusiast · Vibe Coder
 
