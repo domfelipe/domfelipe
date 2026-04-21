@@ -2,11 +2,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,50:16213e,100:0f3460&height=150§ion=header&text=Dom%20Tech&fontSize=56&fontColor=bd93f9&animation=fadeIn&fontAlign=50&fontAlignY=50" />
 </p>
 <div align="center">
- ╔══════════════════════════════════════════════════════════╗
- ║  👨‍💻  FELIPE DOMINGUES  ┃  Dad · AI Enthusiast · Vibe Coder  ║
- ║  🏢 DomCo.  ┃  📍 Brazil  ┃  🌐 domco.ai                ║
- ╚══════════════════════════════════════════════════════════╝
+<table>
+<tr>
+<td>
+<div align="center">
+<strong>👨‍💻 FELIPE DOMINGUES</strong> — Dad · AI Enthusiast · Vibe Coder
+🏢 DomCo.  |  📍 Brazil  |  🌐 domco.ai
 </div>
+</td>
+</tr>
+</table>
+</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,50:16213e,100:0f3460&height=8§ion=footer&reversal=false&animation=fadeIn" />
+</p>
 ---
 ### 🎮 PLAYER STATS
 <div align="center">
@@ -92,8 +101,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a0a2e&height=8§ion=header&reversal=false&animation=fadeIn" />
 </p>
 <div align="center">
-┌─────────────────────────────────────────────────┐
-│  "Código é poesia. Agentes são o futuro."       │
-│                                                 │
-│          ⚡ Powered by AI & Multi-Agent ⚡        │
-└─────────────────────────────────────────────────┘
+<table>
+<tr>
+<td>
+> *"Código é poesia. Agentes são o futuro."*
+⚡ **Powered by AI & Multi-Agent** ⚡
+</td>
+</tr>
+</table>
+</div>
