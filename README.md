@@ -1,121 +1,147 @@
+```
+ ███████╗███████╗██████╗ ██╗   ██╗██╗ ██████╗███████╗
+ ██╔════╝██╔════╝██╔══██╗██║   ██║██║██╔════╝██╔════╝
+ ███████╗█████╗  ██████╔╝██║   ██║██║██║     █████╗
+ ╚════██║██╔══╝  ██╔══██╗╚██╗ ██╔╝██║██║     ██╔══╝
+ ███████║███████╗██║  ██║ ╚████╔╝ ██║╚██████╗███████╗
+ ╚══════╝╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝ ╚═════╝╚══════╝
+```
+
+```
+ ╔══════════════════════════════════════════════════════════╗
+ ║  👨‍💻  FELIPE DOMINGUES  ┃  Dad · AI Enthusiast · Vibe Coder  ║
+ ║  🏢 DomCo.  ┃  📍 Brazil  ┃  🌐 domco.ai                ║
+ ╚══════════════════════════════════════════════════════════╝
+```
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=130&section=header&text=Felipe%20Domingues&fontSize=50&fontColor=E6DB74&animation=blink" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,50:16213e,100:0f3460&height=8&section=footer&reversal=false&animation=fadeIn" />
 </p>
 
-<div align="center">
-
-### 🤖 AI Developer & Vibecoder
-
-> *Construindo o futuro com agentes de IA, código e prompts.*
-
-</div>
-
 ---
 
-<div align="center">
-
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=domfelipe&theme=dracula&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
+### 🎮 PLAYER STATS
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=domfelipe&color=66D9EF&style=for-the-badge&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/domfelipe?style=for-the-badge&color=A6E22E&label=Followers)
-![Stars](https://img.shields.io/github/stars/domfelipe?style=for-the-badge&color=E6DB74&label=Stars)
-![Repositories](https://img.shields.io/github/repo-count/domfelipe?style=for-the-badge&color=F8F8F2&label=Repos)
-
-</div>
-
----
-
-<div align="center">
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=domfelipe&theme=dracula&show_icons=true&icon_color=66D9EF&border_color=44475A) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domfelipe&layout=compact&theme=dracula&border_color=44475A) |
+| ![domfelipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=domfelipe&theme=dracula&show_icons=true&icon_color=ff79c6&text_color=f8f8f2&title_color=bd93f9&border_color=44475a&bg_color=1a1b26&hide_border=false&count_private=true&include_all_commits=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domfelipe&theme=dracula&layout=compact&border_color=44475a&bg_color=1a1b26&text_color=f8f8f2&title_color=bd93f9&langs_count=8&hide_border=false) |
 |:---:|:---:|
 
 </div>
 
----
-
 <div align="center">
 
-### 📈 WakaTime Stats
-
-[![WakaTime](https://github-widget.vercel.app/api?username=domfelipe&border_color=44475A)](https://wakatime.com/@domfelipe)
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=domfelipe&theme=dracula&column=7&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+### ⚔️ INVENTORY — TECH STACK
 
 <div align="center">
 
-| **AI & Agents** | **Backend** | **Frontend** | **Platforms** |
-|:---:|:---:|:---:|:---:|
-| ![Claude](https://img.shields.io/badge/Claude-8B5CF6?style=flat&logo=anthropic&logoColor=white) | ![N8N](https://img.shields.io/badge/N8n-1a1b26?style=flat&logo=n8n&logoColor=66D9EF) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | ![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=flat&logo=lovable&logoColor=white) |
-| ![Gemini](https://img.shields.io/badge/Gemini-E6DB74?style=flat&logo=googlegemini&logoColor=black) | ![Supabase](https://img.shields.io/badge/Supabase-4e8e4e?style=flat&logo=supabase&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-4584b6?style=flat&logo=typescript&logoColor=white) | ![OpenRouter](https://img.shields.io/badge/OpenRouter-616163?style=flat&logo=data&logoColor=white) |
-| ![GPT](https://img.shields.io/badge/GPT-10A19D?style=flat&logo=openai&logoColor=white) | ![Chatwoot](https://img.shields.io/badge/Chatwoot-F8F8F2?style=flat&logo=chatwoot&logoColor=black) | ![Tailwind](https://img.shields.io/badge/Tailwind-A6E22E?style=flat&logo=tailwindcss&logoColor=black) | ![Vercel](https://img.shields.io/badge/Vercel-1a1b26?style=flat&logo=vercel&logoColor=66D9EF) |
-| ![Multi--Agent](https://img.shields.io/badge/Multi--Agent-F8F8F2?style=flat&logo=agents&logoColor=E6DB74) | ![Evolution%20API](https://img.shields.io/badge/Evolution%20API-E38844?style=flat&logo=whatsapp&logoColor=black) | ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-1a1b26?style=flat&logo=shadcn&logoColor=A6E22E) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+**🧙‍♂️ AI & Agents**
+
+![Claude](https://img.shields.io/badge/Claude-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-E6DB74?style=for-the-badge&logo=googlegemini&logoColor=black)
+![GPT](https://img.shields.io/badge/GPT-10A19D?style=for-the-badge&logo=openai&logoColor=white)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent-F8F8F2?style=for-the-badge&logo=github&logoColor=E6DB74)
+
+**🗡️ Backend**
+
+![N8N](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Chatwoot](https://img.shields.io/badge/Chatwoot-1F93FF?style=for-the-badge&logo=chatwoot&logoColor=white)
+![Evolution API](https://img.shields.io/badge/Evolution%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+**🛡️ Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+**🏰 Platforms & Infra**
+
+![Lovable](https://img.shields.io/badge/Lovable-FF4785?style=for-the-badge&logo=github&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-616163?style=for-the-badge&logo=openai&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-### 📊 GitHub Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=domfelipe&theme=dracula&bg_color=1a1b26&color=66D9EF&line=A6E22E&point=E6DB74&area=true&hide_border=false)
-
----
-
-### 🏅 Achievements & Milestones
+### 🏆 ACHIEVEMENTS UNLOCKED
 
 <div align="center">
 
-![Pull Shark](https://github-readme-stats.vercel.app/api/badge/domfelipe?rank=PLATINUM&show_icons=true&theme=dracula&border_color=44475A)
-![Starstruck](https://github-readme-stats.vercel.app/api/badge/domfelipe?rank=GOLD&show_icons=true&theme=dracula&border_color=44475A)
-![Quickdraw](https://github-readme-stats.vercel.app/api/badge/domfelipe?rank=SILVER&show_icons=true&theme=dracula&border_color=44475A)
+![Profile Views](https://komarev.com/ghpvc/?username=domfelipe&color=bd93f9&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/domfelipe?style=for-the-badge&color=50fa7b&label=FOLLOWERS&logo=github)
+![Stars](https://img.shields.io/github/stars/domfelipe?style=for-the-badge&color=f1fa8c&label=STARS&logo=github)
+![Repos](https://img.shields.io/github/repo-count/domfelipe?style=for-the-badge&color=ff79c6&label=REPOSITORIES&logo=github)
 
 </div>
 
 ---
 
-### 📂 Projetos em Destaque
+### 📊 CODING ACTIVITY
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=domfelipe&repo=domco-devsquad&theme=dracula&border_color=44475A&border_radius=10)](https://github.com/domfelipe/domco-devsquad)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=domfelipe&repo=domfelipe&theme=dracula&border_color=44475A&border_radius=10)](https://github.com/domfelipe/domfelipe)
+[![WakaTime](https://github-widgetbox.vercel.app/api/profile?username=domfelipe&theme=dracula)](https://wakatime.com/@domfelipe)
 
 </div>
 
 ---
 
-### 🤝 Conectar
+### 🗺️ WORLD MAP — CONTRIBUTIONS
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipedomingues)
-[![Twitter](https://img.shields.io/badge/Twitter-1a1b26?style=for-the-badge&logo=twitter&logoColor=66D9EF)](https://twitter.com/felipedomingues)
-[![Email](https://img.shields.io/badge/Email-E6DB74?style=for-the-badge&logo=gmail&logoColor=black)](mailto:felipe@domco.com.br)
+![GitHub Streak](https://streak-stats.demolab.com?user=domfelipe&theme=dracula&border=44475a&background=1a1b26&ring=bd93f9&fire=ff79c6&currStreakNum=50fa7b&sideNum=f8f8f2&currStreakLabel=bd93f9&sideLabels=f8f8f2&dates=f8f8f2&stroke=44475a)
 
 </div>
 
 ---
 
+### 📜 QUEST LOG — FEATURED PROJECTS
+
 <div align="center">
 
-> *"Código é poesia. Agentes são o futuro."* 
-
-**⚡ Powered by AI & Multi-Agent Systems**
+| 🏰 PROJECT | ⚡ DESCRIPTION | 🛡️ LANGUAGE |
+|:---|:---|:---:|
+| [**DomCo.ai**](https://domco.ai) | AI-powered platform | 🌐 Web |
+| [**Multi-Agent Systems**](https://github.com/domfelipe) | AI agent orchestration | 🤖 AI |
+| [**N8N Workflows**](https://github.com/domfelipe) | Automation pipelines | ⚙️ Backend |
 
 </div>
 
 ---
+
+### 📡 CONNECT — PARTY CHAT
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/🌐-domco.ai-6272a4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://domco.ai)
+[![GitHub](https://img.shields.io/badge/GitHub-@domfelipe-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/domfelipe)
+[![Email](https://img.shields.io/badge/📧-Contact-D4AF37?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@domco.ai)
+
+</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=80&section=footer&animation=wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a0a2e&height=8&section=header&reversal=false&animation=fadeIn" />
 </p>
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────┐
+│  "Código é poesia. Agentes são o futuro."       │
+│                                                 │
+│          ⚡ Powered by AI & Multi-Agent ⚡        │
+└─────────────────────────────────────────────────┘
+```
+
+</div>
