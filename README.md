@@ -114,12 +114,9 @@
 | 🏰 PROJECT | ⚡ DESCRIPTION | 🛡️ LANGUAGE |
 |:---|:---|:---:|
 | [**DomCo.ai**](https://domco.ai) | AI-powered platform | 🌐 Web |
+| [**MIKAEL CO-behavior**](https://github.com/domfelipe/mikael-3.3-co-behavior) | Behavioral spec for AI agents | ⚙️ MCP |
 | [**VibeFlow N8N**](https://github.com/domfelipe/vibeflow-n8n) | Build n8n workflows through MCP with any coding agent | ⚙️ MCP |
-| [**Evolution API**](https://github.com/domfelipe/evolution-api) | Open-source WhatsApp integration API | 💬 WhatsApp |
 | [**ISA-Interface**](https://github.com/domfelipe/ISA-Interface) | Speech Recognition transcription prototype | 🎙️ HTML |
-| [**Sicredi Proxy**](https://github.com/domfelipe/sicredi-proxy) | Proxy integration service | 🟨 JavaScript |
-| [**HandTalk**](https://github.com/domfelipe/HandTalk) | Web app for deaf & dumb communication accessibility | ♿ Web |
-
 </div>
 
 ---
