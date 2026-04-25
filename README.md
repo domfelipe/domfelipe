@@ -115,7 +115,7 @@
 |:---|:---|:---:|
 | [**DomCo.ai**](https://domco.ai) | AI-powered platform | 🌐 Web |
 | [**MIKAEL CO-behavior**](https://github.com/domfelipe/mikael-3.3-co-behavior) | Behavioral spec for AI agents | ⚙️ MCP |
-| [**VibeFlow N8N**](https://github.com/domfelipe/vibeflow-n8n) | Build n8n workflows through MCP with any coding agent | ⚙️ MCP |
+| [**VibeFlow N8N**](https://github.com/domfelipe/vibeflow-n8n) | Build n8n workflows through MCP with any coding agent | 🧠 AI Agent |
 | [**ISA-Interface**](https://github.com/domfelipe/ISA-Interface) | Speech Recognition transcription prototype | 🎙️ HTML |
 </div>
 
