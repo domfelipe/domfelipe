@@ -13,9 +13,9 @@
                                                                                                          
 ```
 
-**👨‍💻 FELIPE DOMINGUES** — Dad · AI Enthusiast · Vibe Coder
+**👨‍💻 FELIPE DOMINGUES** — Dad · AI Enthusiast · AI Researcher (Tiny Models)
 
-🏢 DomCo. &nbsp;&nbsp;|&nbsp;&nbsp; 📍 Brazil &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 domco.ai
+🏢 DomCo. &nbsp;&nbsp;|&nbsp;&nbsp; 📍 Brazil &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 domhubs.com.br
 
 </div>
 
