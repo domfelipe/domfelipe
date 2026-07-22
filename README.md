@@ -15,7 +15,7 @@
 
 **👨‍💻 FELIPE DOMINGUES** — Dad · AI Enthusiast · AI Researcher (Tiny Models)
 
-🏢 DomCo. &nbsp;&nbsp;|&nbsp;&nbsp; 📍 Brazil &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 domhubs.com.br
+🏢 DomHubs &nbsp;&nbsp;|&nbsp;&nbsp; 📍 Brazil &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 domhubs.com.br
 
 </div>
 
