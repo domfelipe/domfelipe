@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2500&pause=800&color=39D353&background=0D1117&center=true&vCenter=true&width=700&height=60&lines=%24+whoami;Felipe+Domingues+%E2%80%94+Dad+%C2%B7+AI+Enthusiast+%C2%B7+Researcher;%24+./make_something_awesome)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1200&size=26&duration=2500&pause=800&color=39D353&background=0D1117&center=true&vCenter=true&width=700&height=60&lines=%24+whoami;Felipe+Domingues+%E2%80%94+Dad+%C2%B7+AI+Enthusiast+%C2%B7+Researcher;%24+./make_something_awesome)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/%24_open-portfolio-39d353?style=flat-square&labelColor=0d1117)](https://domfelipe.domhubs.com.br)
 [![DomHubs](https://img.shields.io/badge/%24_open-domhubs.com.br-39d353?style=flat-square&labelColor=0d1117)](https://www.domhubs.com.br)
