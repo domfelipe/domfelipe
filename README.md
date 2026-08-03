@@ -2,6 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=39D353&background=0D1117&center=true&vCenter=true&width=700&height=60&lines=%24+whoami;Felipe+Domingues+%E2%80%94+Dad+%C2%B7+AI+Enthusiast+%C2%B7+Vibe+Coder;%24+./make_something_awesome)](https://git.io/typing-svg)
 
+[![Portfolio](https://img.shields.io/badge/%24_open-portfolio-39d353?style=flat-square&labelColor=0d1117)](https://domfelipe.domhubs.com.br)
+[![DomHubs](https://img.shields.io/badge/%24_open-domhubs.com.br-39d353?style=flat-square&labelColor=0d1117)](https://www.domhubs.com.br)
+[![Email](https://img.shields.io/badge/%24_mail-felipe%40domhubs.com.br-39d353?style=flat-square&labelColor=0d1117)](mailto:felipe@domhubs.com.br)
+[![Open to](https://img.shields.io/badge/open_to-AI_agents_%26_automation-0d1117?style=flat-square&labelColor=39d353)](mailto:felipe@domhubs.com.br)
+
 </div>
 
 ```bash
@@ -14,19 +19,31 @@ company:   DomHubs
 location:  Brazil 🇧🇷
 site:      domhubs.com.br
 products:  [domhubs, hermes-agent, SaciLM 4B (developing)]
+open_to:   [AI agents, automation consulting, tiny models]
 belief:    "Code is poem. Agents are the future."
 ```
 
 ```bash
 felipe@github:~$ ls -lh --group-directories-first ~/projects/featured
 ```
-```
+<pre>
 total 4.2K
-drwxr-xr-x  domhubs                   → https://www.domhubs.com.br                    [ production ]
--rw-r--r--  vibeflow-n8n              Safety & contract checks for AI-generated n8n   [ ⭐ 9 ]
--rw-r--r--  mikael-3.3-co-behavior    Behavioral spec for AI agents                   [ AI agent ]
--rw-r--r--  ISA-Interface             Speech recognition transcription prototype      [ prototype ]
+drwxr-xr-x  <a href="https://www.domhubs.com.br">domhubs</a>                    AI-powered platforms &amp; client automation    [ production ]
+-rw-r--r--  <a href="https://github.com/domfelipe/vibeflow-n8n">vibeflow-n8n</a>               Safety &amp; contract checks for AI-generated n8n  [ ⭐ 9 ]
+-rw-r--r--  <a href="https://github.com/domfelipe/mikael-3.3-co-behavior">mikael-3.3-co-behavior</a>     Behavioral spec for AI agents                  [ AI agent ]
+-rw-r--r--  <a href="https://github.com/domfelipe/ISA-Interface">ISA-Interface</a>              Speech recognition transcription prototype     [ prototype ]
+</pre>
+
+```bash
+felipe@github:~$ cat ~/work/client-projects.md
 ```
+<pre>
+● <a href="TODO-LIVE-URL">PROJECT-NAME</a>   — what it does · react, supabase, n8n · live · repo private (NDA)
+● <a href="TODO-LIVE-URL">PROJECT-NAME</a>   — what it does · next.js, agents · live · repo private (NDA)
+● <a href="TODO-LIVE-URL">PROJECT-NAME</a>   — what it does · n8n, evolution-api · live · repo private (NDA)
+
+Client work lives in private repositories. Case studies available on request.
+</pre>
 
 ```bash
 felipe@github:~$ systemctl status felipe.services
@@ -71,16 +88,16 @@ felipe@github:~$ neofetch --stats
 ```bash
 felipe@github:~$ ping -c 3 contact
 ```
-```
+<pre>
 PING domfelipe (brazil): 56 data bytes
 
-64 bytes from domhubs.com.br       → https://www.domhubs.com.br
-64 bytes from domfelipe.vercel.app → https://domfelipe.domhubs.com.br
-64 bytes from contact@domco.ai     → mailto:felipe@domhubs.com.br
+64 bytes from <a href="https://www.domhubs.com.br">domhubs.com.br</a>             → company
+64 bytes from <a href="https://domfelipe.domhubs.com.br">domfelipe.domhubs.com.br</a>   → portfolio
+64 bytes from <a href="mailto:felipe@domhubs.com.br">felipe@domhubs.com.br</a>      → email (fastest response)
 
 --- contact statistics ---
 3 packets transmitted, 3 received, 0% packet loss — always open
-```
+</pre>
 
 ```bash
 felipe@github:~$ exit
