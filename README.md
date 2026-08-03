@@ -13,8 +13,8 @@ role:      AI Enthusiast · AI Researcher (Tiny Models) · Vibe Coder
 company:   DomHubs
 location:  Brazil 🇧🇷
 site:      domhubs.com.br
-products:  [domco.ai, hermes-agent]
-belief:    "Código é poesia. Agentes são o futuro."
+products:  [domhubs, hermes-agent, SaciLM 4B (developing)]
+belief:    "Code is poem. Agents are the future."
 ```
 
 ```bash
@@ -22,7 +22,7 @@ felipe@github:~$ ls -lh --group-directories-first ~/projects/featured
 ```
 ```
 total 4.2K
-drwxr-xr-x  domco.ai                  → https://domco.ai                              [ production ]
+drwxr-xr-x  domhubs                   → https://www.domhubs.com.br                    [ production ]
 -rw-r--r--  vibeflow-n8n              Safety & contract checks for AI-generated n8n   [ ⭐ 9 ]
 -rw-r--r--  mikael-3.3-co-behavior    Behavioral spec for AI agents                   [ AI agent ]
 -rw-r--r--  ISA-Interface             Speech recognition transcription prototype      [ prototype ]
@@ -32,7 +32,7 @@ drwxr-xr-x  domco.ai                  → https://domco.ai                      
 felipe@github:~$ systemctl status felipe.services
 ```
 ```
-● domco.ai.service      — AI-powered platform              active (running)
+● domlabs.service       — AI-powered platforms             active (running)
 ● domhubs.service       — client automation & agents       active (running)
 ● research.service      — tiny models / agent behavior     active (running)
 ● dad.service           — 24/7, no SLA                     active (running)
@@ -55,7 +55,7 @@ felipe@github:~$ tail -n 4 /var/log/now.log
 [2026-08] shipping  hermes-client-onboarding → one-liner deploy of AI agents
 [2026-08] hacking   vibeflow-n8n → building n8n workflows through MCP
 [2026-08] playing   meu-mundinho → 35 3D games (three.js) for my kid
-[2026-07] launching portfolio → domfelipe.vercel.app
+[2026-07] launching portfolio → domfelipe.domhubs.com.br
 ```
 
 <div align="center">
@@ -74,9 +74,9 @@ felipe@github:~$ ping -c 3 contact
 ```
 PING domfelipe (brazil): 56 data bytes
 
-64 bytes from domco.ai            → https://domco.ai
-64 bytes from domfelipe.vercel.app → https://domfelipe.vercel.app
-64 bytes from contact@domco.ai     → mailto:contact@domco.ai
+64 bytes from domhubs.com.br       → https://www.domhubs.com.br
+64 bytes from domfelipe.vercel.app → https://domfelipe.domhubs.com.br
+64 bytes from contact@domco.ai     → mailto:felipe@domhubs.com.br
 
 --- contact statistics ---
 3 packets transmitted, 3 received, 0% packet loss — always open
