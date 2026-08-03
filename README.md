@@ -1,165 +1,89 @@
 <div align="center">
-  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=39D353&background=0D1117&center=true&vCenter=true&width=700&height=60&lines=%24+whoami;Felipe+Domingues+%E2%80%94+Dad+%C2%B7+AI+Enthusiast+%C2%B7+Vibe+Coder;%24+./make_something_awesome)](https://git.io/typing-svg)
+
+</div>
+
+```bash
+felipe@github:~$ cat config.yaml
 ```
-░███████     ░██████   ░███     ░███ ░██████████░██████████ ░██         ░██████░█████████  ░██████████ 
-░██   ░██   ░██   ░██  ░████   ░████ ░██        ░██         ░██           ░██  ░██     ░██ ░██         
-░██    ░██ ░██     ░██ ░██░██ ░██░██ ░██        ░██         ░██           ░██  ░██     ░██ ░██         
-░██    ░██ ░██     ░██ ░██ ░████ ░██ ░█████████ ░█████████  ░██           ░██  ░█████████  ░█████████  
-░██    ░██ ░██     ░██ ░██  ░██  ░██ ░██        ░██         ░██           ░██  ░██         ░██         
-░██   ░██   ░██   ░██  ░██       ░██ ░██        ░██         ░██           ░██  ░██         ░██         
-░███████     ░██████   ░██       ░██ ░██        ░██████████ ░██████████ ░██████░██         ░██████████ 
-                                                                                                       
-                                                                                                       
-                                                                                                         
+```yaml
+name:      Felipe Domingues
+role:      AI Enthusiast · AI Researcher (Tiny Models) · Vibe Coder
+company:   DomHubs
+location:  Brazil 🇧🇷
+site:      domhubs.com.br
+products:  [domco.ai, hermes-agent]
+belief:    "Código é poesia. Agentes são o futuro."
 ```
 
-**👨‍💻 FELIPE DOMINGUES** — Dad · AI Enthusiast · AI Researcher (Tiny Models)
+```bash
+felipe@github:~$ ls -lh --group-directories-first ~/projects/featured
+```
+```
+total 4.2K
+drwxr-xr-x  domco.ai                  → https://domco.ai                              [ production ]
+-rw-r--r--  vibeflow-n8n              Safety & contract checks for AI-generated n8n   [ ⭐ 9 ]
+-rw-r--r--  mikael-3.3-co-behavior    Behavioral spec for AI agents                   [ AI agent ]
+-rw-r--r--  ISA-Interface             Speech recognition transcription prototype      [ prototype ]
+```
 
-🏢 DomHubs &nbsp;&nbsp;|&nbsp;&nbsp; 📍 Brazil &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 domhubs.com.br
+```bash
+felipe@github:~$ systemctl status felipe.services
+```
+```
+● domco.ai.service      — AI-powered platform              active (running)
+● domhubs.service       — client automation & agents       active (running)
+● research.service      — tiny models / agent behavior     active (running)
+● dad.service           — 24/7, no SLA                     active (running)
+```
 
-</div>
+```bash
+felipe@github:~$ felipe --stack
+```
+```
+ai/agents    claude · gemini · gpt · multi-agent orchestration · mcp
+backend      n8n · supabase · chatwoot · evolution-api
+frontend     react · typescript · tailwind · shadcn/ui
+infra        vercel · docker · openrouter · railway
+```
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,50:16213e,100:0f3460&height=8&section=footer&reversal=false&animation=fadeIn" />
-</p>
-
----
-
-### 🎮 PLAYER STATS
-
-<div align="center">
-
-| ![domfelipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=domfelipe&theme=dracula&show_icons=true&icon_color=ff79c6&text_color=f8f8f2&title_color=bd93f9&border_color=44475a&bg_color=1a1b26&hide_border=false&count_private=true&include_all_commits=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domfelipe&theme=dracula&layout=compact&border_color=44475a&bg_color=1a1b26&text_color=f8f8f2&title_color=bd93f9&langs_count=8&hide_border=false) |
-|:---:|:---:|
-
-</div>
-
-<div align="center">
-
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=domfelipe&theme=dracula&column=7&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### 📈 ACTIVITY GRAPH
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=domfelipe&theme=dracula&bg_color=1a1b26&color=bd93f9&line=ff79c6&point=50fa7b&area=true&hide_border=true&custom_title=Contributions+Activity)
-
-</div>
-
----
-
-### ⚔️ INVENTORY — TECH STACK
-
-<div align="center">
-
-**🧙‍♂️ AI & Agents**
-
-![Claude](https://img.shields.io/badge/Claude-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-E6DB74?style=for-the-badge&logo=googlegemini&logoColor=black)
-![GPT](https://img.shields.io/badge/GPT-10A19D?style=for-the-badge&logo=openai&logoColor=white)
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent-F8F8F2?style=for-the-badge&logo=github&logoColor=E6DB74)
-
-**🗡️ Backend**
-
-![N8N](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Chatwoot](https://img.shields.io/badge/Chatwoot-1F93FF?style=for-the-badge&logo=chatwoot&logoColor=white)
-![Evolution API](https://img.shields.io/badge/Evolution%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-
-**🛡️ Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-**🏰 Platforms & Infra**
-
-![Lovable](https://img.shields.io/badge/Lovable-FF4785?style=for-the-badge&logo=github&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-616163?style=for-the-badge&logo=openai&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
-### 🏆 ACHIEVEMENTS UNLOCKED
+```bash
+felipe@github:~$ tail -n 4 /var/log/now.log
+```
+```
+[2026-08] shipping  hermes-client-onboarding → one-liner deploy of AI agents
+[2026-08] hacking   vibeflow-n8n → building n8n workflows through MCP
+[2026-08] playing   meu-mundinho → 35 3D games (three.js) for my kid
+[2026-07] launching portfolio → domfelipe.vercel.app
+```
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=domfelipe&color=bd93f9&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/domfelipe?style=for-the-badge&color=50fa7b&label=FOLLOWERS&logo=github)
-![Stars](https://img.shields.io/github/stars/domfelipe?style=for-the-badge&color=f1fa8c&label=STARS&logo=github)
-![Repos](https://img.shields.io/github/repo-count/domfelipe?style=for-the-badge&color=ff79c6&label=REPOSITORIES&logo=github)
+```bash
+felipe@github:~$ neofetch --stats
+```
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=domfelipe&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=39d353&text_color=7ee787&icon_color=39d353&border_color=30363d&hide_border=false" /> <img height="165" src="https://streak-stats.demolab.com?user=domfelipe&background=0d1117&ring=39d353&fire=39d353&currStreakNum=7ee787&sideNums=7ee787&currStreakLabel=39d353&sideLabels=39d353&dates=7ee787&stroke=30363d&border=30363d" />
 
 </div>
 
----
+```bash
+felipe@github:~$ ping -c 3 contact
+```
+```
+PING domfelipe (brazil): 56 data bytes
 
-### 🗺️ STREAK STATS
+64 bytes from domco.ai            → https://domco.ai
+64 bytes from domfelipe.vercel.app → https://domfelipe.vercel.app
+64 bytes from contact@domco.ai     → mailto:contact@domco.ai
 
-<div align="center">
+--- contact statistics ---
+3 packets transmitted, 3 received, 0% packet loss — always open
+```
 
-![GitHub Streak](https://streak-stats.demolab.com?user=domfelipe&theme=dracula&border=44475a&background=1a1b26&ring=bd93f9&fire=ff79c6&currStreakNum=50fa7b&sideNum=f8f8f2&currStreakLabel=bd93f9&sideLabels=f8f8f2&dates=f8f8f2&stroke=44475a)
-
-</div>
-
----
-
-### 📜 QUEST LOG — FEATURED PROJECTS
-
-<div align="center">
-
-| 🏰 PROJECT | ⚡ DESCRIPTION | 🛡️ LANGUAGE |
-|:---|:---|:---:|
-| [**DomCo.ai**](https://domco.ai) | AI-powered platform | 🌐 Web |
-| [**MIKAEL CO-behavior**](https://github.com/domfelipe/mikael-3.3-co-behavior) | Behavioral spec for AI agents | 🧠 AI Agent|
-| [**VibeFlow N8N**](https://github.com/domfelipe/vibeflow-n8n) | Build n8n workflows through MCP with any coding agent | ⚙️ MCP  |
-| [**ISA-Interface**](https://github.com/domfelipe/ISA-Interface) | Speech Recognition transcription prototype | 🎙️ HTML |
-</div>
-
----
-
-### 🎯 RADAR — WHAT I'M WATCHING
-
-<div align="center">
-
-*Projects that inspire my work:*
-
-| 📡 PROJECT | 💡 WHY IT MATTERS |
-|:---|:---|
-| [**MCP Brasil**](https://github.com/jxnxts/mcp-brasil) | 41 APIs públicas brasileiras via MCP |
-| [**Hermes Workspace**](https://github.com/outsourc-e/hermes-workspace) | Native web workspace for AI agents |
-| [**Evolver (GEP)**](https://github.com/EvoMap/evolver) | Self-evolution engine for AI agents |
-| [**WorldMonitor**](https://github.com/koala73/worldmonitor) | Real-time global intelligence dashboard |
-
-</div>
-
----
-
-### 📡 CONNECT — PARTY CHAT
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/🌐-domco.ai-6272a4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://domco.ai)
-[![GitHub](https://img.shields.io/badge/GitHub-@domfelipe-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/domfelipe)
-[![Email](https://img.shields.io/badge/📧-Contact-D4AF37?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@domco.ai)
-
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a0a2e&height=8&section=header&reversal=false&animation=fadeIn" />
-</p>
-
-<div align="center">
-
-> *"Código é poesia. Agentes são o futuro."*
-
-⚡ **Powered by AI & Multi-Agent** ⚡
-
-</div>
+```bash
+felipe@github:~$ exit
+logout
+Connection to github.com closed.
+```
