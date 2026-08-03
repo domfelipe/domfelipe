@@ -64,7 +64,7 @@ felipe@github:~$ tail -n 4 /var/log/now.log
 felipe@github:~$ neofetch --stats
 ```
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=domfelipe&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=39d353&text_color=7ee787&icon_color=39d353&border_color=30363d&hide_border=false" /> <img height="165" src="https://streak-stats.demolab.com?user=domfelipe&background=0d1117&ring=39d353&fire=39d353&currStreakNum=7ee787&sideNums=7ee787&currStreakLabel=39d353&sideLabels=39d353&dates=7ee787&stroke=30363d&border=30363d" />
+<img src="./github-metrics.svg" alt="GitHub metrics" width="480" />
 
 </div>
 
