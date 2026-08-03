@@ -35,14 +35,42 @@ drwxr-xr-x  <a href="https://www.domhubs.com.br">domhubs</a>                    
 </pre>
 
 ```bash
-felipe@github:~$ cat ~/work/client-projects.md
+felipe@github:~$ cat /var/log/production.log
+```
+```
++15,000 people served by WhatsApp AI agents
++600k   real AI-driven conversations
+~60%    productivity gain for client teams
+```
+
+```bash
+felipe@github:~$ tree ~/products
 ```
 <pre>
-● <a href="TODO-LIVE-URL">PROJECT-NAME</a>   — what it does · react, supabase, n8n · live · repo private (NDA)
-● <a href="TODO-LIVE-URL">PROJECT-NAME</a>   — what it does · next.js, agents · live · repo private (NDA)
-● <a href="TODO-LIVE-URL">PROJECT-NAME</a>   — what it does · n8n, evolution-api · live · repo private (NDA)
+domhubs/ — all running in production · repos private (NDA) · demos public
 
-Client work lives in private repositories. Case studies available on request.
+├── live demos
+│   ├── <a href="https://mika.domhubs.com.br">Mika</a>          personal AI assistant on Telegram — dedicated agent per user
+│   ├── <a href="https://medix.domhubs.com.br">Medix</a>         clinic management with embedded AI (Gemini)
+│   ├── <a href="https://vitadiet.domhubs.com.br">VitaDiet</a>      digital nutrition plans &amp; patient tracking
+│   └── <a href="https://govtech.domhubs.com.br">GovTech</a>       digital services for the public sector
+│
+├── flagship
+│   └── WhatsApp AI Agent   24/7 customer service: answers, schedules, confirms, escalates
+│
+└── platforms &amp; saas
+    ├── LicitaOS AI       public tenders found, filtered &amp; analyzed by AI (PNCP sync)
+    ├── ImobVision 3D     real-estate platform: 3D tours, kanban CRM, visit scheduling
+    ├── BoraAtender       local-services marketplace with payments &amp; quotes
+    ├── Barber Pass       membership club &amp; booking for barbershops
+    ├── Tripy             B2B travel package aggregator for agencies
+    ├── YourCat           catholic devotional app — 365-day bible plan
+    ├── Seguro Sim Pro    insurance quote simulator for brokers
+    ├── Nota Fácil Hub    invoicing &amp; fiscal-doc management hub
+    ├── WhaleWatch        signal terminal for prediction-market traders
+    └── LLM Cockpit       compare LLM answers side by side, in real time
+
++ custom n8n automations: SDR · finance · legal · marketing
 </pre>
 
 ```bash
