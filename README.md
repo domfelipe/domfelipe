@@ -114,17 +114,18 @@ felipe@github:~$ neofetch --stats
 </div>
 
 ```bash
-felipe@github:~$ ping -c 3 contact
+felipe@github:~$ ping -c 4 contact
 ```
 <pre>
 PING domfelipe (brazil): 56 data bytes
 
+64 bytes from <a href="https://wa.me/5514997155053">+55 14 99715-5053</a>          → whatsapp (fastest response)
 64 bytes from <a href="https://www.domhubs.com.br">domhubs.com.br</a>             → company
 64 bytes from <a href="https://domfelipe.domhubs.com.br">domfelipe.domhubs.com.br</a>   → portfolio
-64 bytes from <a href="mailto:felipe@domhubs.com.br">felipe@domhubs.com.br</a>      → email (fastest response)
+64 bytes from <a href="mailto:felipe@domhubs.com.br">felipe@domhubs.com.br</a>      → email
 
 --- contact statistics ---
-3 packets transmitted, 3 received, 0% packet loss — always open
+4 packets transmitted, 4 received, 0% packet loss — always open
 </pre>
 
 ```bash
